@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/HarshaReddyVardhan/Harsha-bz/issues"
   },
-  "homepage": "https://github.com/HarshaReddyVardhan/Harsha-bz#readme"
+  "homepage": "https://github.com/HarshaReddyVardhan/Harsha-bz#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
